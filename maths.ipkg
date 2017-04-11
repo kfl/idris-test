@@ -1,0 +1,7 @@
+package maths
+
+modules = Maths.NumOps
+        , Test.NumOps
+
+tests = Test.NumOps.testDouble
+      , Test.NumOps.testTriple
